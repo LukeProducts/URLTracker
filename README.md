@@ -26,7 +26,7 @@ There will be 2 windows popping up:
 
 
 
-<div style="border: 16px solid #f3f3f3; border-top: 16px solid rgb(255, 208, 0); border-left: 16px solid rgb(0, 89, 255);border-right: 16px solid green;border-bottom: 16px solid red;border-radius: 50%;width: 120px;height: 120px;animation: spin 2s linear infinite;position: absolute;top:0;bottom: 0;left: 0;right: 0;margin: auto;transition: all 0.5s ease-in-out;}@keyframes spin {0% { transform: rotate(0deg); }25% {transform: rotate(360deg);}50% {transform: rotate(0deg);}100% { transform: rotate(360deg); }}"></div>
+<div style="border: 16px solid #f3f3f3; border-top: 16px solid rgb(255, 208, 0); border-left: 16px solid rgb(0, 89, 255);border-right: 16px solid green;border-bottom: 16px solid red;border-radius: 50%;width: 120px;height: 120px;animation: spin 2s linear infinite;position: absolute;top:0;bottom: 0;left: 0;right: 0;margin: auto;transition: all 0.5s ease-in-out;}@keyframes spin {0% { transform: rotate(0deg); }25% {transform: rotate(360deg);}50% {transform: rotate(0deg);}100% { transform: rotate(360deg); }"></div>
 
 
 
