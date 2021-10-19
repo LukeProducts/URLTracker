@@ -6,7 +6,7 @@ The Geolocation-Engeneering Toolkit is to obtain the exact location of a user us
 
 xterm, apache2, unzip
 
-install:
+installation:
 ```
 sudo apt install xterm
 sudo apt install apache2
