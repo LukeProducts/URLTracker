@@ -15,9 +15,15 @@ chmod +x tracker.sh
 sudo ./tracker.sh
 ```
 
+There will be 2 windows popping up:
 
 
+Lifeview of logsfile_
+![empty_00142](https://user-images.githubusercontent.com/73026669/137955603-4d841a71-f4a5-45ea-9a46-3271fbaf428f.png)
 
+ngrok server status:
+
+![ngrok_00071](https://user-images.githubusercontent.com/73026669/137955671-7cf5410a-aa93-4b66-bdcb-ad6fad1a5cd3.png)
 
 
 
