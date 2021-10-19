@@ -15,8 +15,12 @@ chmod +x tracker.sh
 sudo ./tracker.sh
 ```
 
-if you want to get an ngrok plan for unlimited time, visit [ngrok](https://ngrok.com/)
-
+if you want to get an ngrok plan for unlimited time, visit [ngrok](https://ngrok.com/), sign up there, and 
+activate your ngrok with the command 
+```sh
+./ngrok authtoken YOURAUTHTOKEN
+```
+You will get the authtoken as soon as youre signed up under [setup](https://dashboard.ngrok.com/get-started/setup).
 
 
 # DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
