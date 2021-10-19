@@ -32,14 +32,6 @@ There will be 2 windows popping up:
 
 
 
-The Users view:
-
-![web1](https://user-images.githubusercontent.com/73026669/137960726-6b4172d3-fcc2-4206-8942-c545e0c62cb7.jpg)
-
-After clicking allow him wil be shown his locationlike real maps application:
-
-
-![web2](https://user-images.githubusercontent.com/73026669/137961620-85bfa4ef-a5b0-4a12-9aa7-d0de7c173aef.jpg)
 
 
 
