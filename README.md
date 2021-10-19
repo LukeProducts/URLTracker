@@ -7,6 +7,8 @@ First Unzip ngrok:
 ```
 unzip ngrok.zip
 ```
+
+Then make tracker.sh executable and start the program with sudo privileges:
 ```sh
 chmod +x tracker.sh
 
