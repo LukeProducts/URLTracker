@@ -32,7 +32,7 @@ There will be 2 windows popping up:
 |After someone opend the url, you'll se several information of the victim| 
 |![full1_00000](https://user-images.githubusercontent.com/73026669/137956688-9fd4b5ba-7d8f-4e0c-abf2-63024a0d8f4d.png)| 
 
-The coords shown are summaryzed under "Google Maps", 
+The coords shown are summarized under "Google Maps", 
 you can see the geolocation on a map if you visit the printed url under this tag,
 
 # IMPORTANT:
