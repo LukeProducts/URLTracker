@@ -51,7 +51,7 @@ ngrok RESPONSE:
 
 Authtoken saved to configuration file: /home/user/.ngrok2/ngrok.yml
 ```
-You will get the authtoken as soon as youre signed up under [setup](https://dashboard.ngrok.com/get-started/setup).
+The authtoken will be shown as soon as youre signed up under [setup](https://dashboard.ngrok.com/get-started/setup).
 After this, you'll see, that ngrok always opens with:
 
 
