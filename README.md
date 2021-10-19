@@ -5,4 +5,6 @@ The Geolocation-Engeneering Toolkit is to obtain the exact location of a user us
 # Usage:
 ```sh
 chmod +x tracker.sh
+
+sudo ./tracker.sh
 ```
