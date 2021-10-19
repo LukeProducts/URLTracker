@@ -57,8 +57,8 @@ After this, you'll see, that ngrok always opens with:
 
 
 
-# DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
-# NO LIABILITY FOR ILLEGAL USE IS ASSUMED!
+DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
+NO LIABILITY FOR ILLEGAL USE IS ASSUMED!
 
 [![Build Status](https://user-images.githubusercontent.com/73026669/110617122-9c75ad00-8195-11eb-9ba5-422356072776.png)](https://github.com/LukeProducts)
 
