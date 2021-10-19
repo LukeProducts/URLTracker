@@ -15,7 +15,7 @@ chmod +x tracker.sh
 sudo ./tracker.sh
 ```
 
-if you want to get an ngrok plan for unlimited time, visit <a href="https://ngrok.com/">Ngrok</a>
+if you want to get an ngrok plan for unlimited time, visit [!ngrok](https://ngrok.com/)
 
 
 
