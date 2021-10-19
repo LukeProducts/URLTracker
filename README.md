@@ -42,7 +42,7 @@ but it is with https
 
 # ngrok
 
-if you want to get an ngrok plan for unlimited time, visit [ngrok](https://ngrok.com/), sign up there, and 
+if you want to get an ngrok plan for unlimited server uptime, visit [ngrok](https://ngrok.com/), sign up there, and 
 activate your ngrok with the command 
 ```sh
 ./ngrok authtoken YOURAUTHTOKEN
