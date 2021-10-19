@@ -31,14 +31,16 @@ There will be 2 windows popping up:
 |![full1_00000](https://user-images.githubusercontent.com/73026669/137956688-9fd4b5ba-7d8f-4e0c-abf2-63024a0d8f4d.png)| 
 
 # IMPORTANT:
-tracking will only work if you use the https secure web protocol (second link on ngrok)
+tracking will only work if you use the https secure web protocol 
+(second link on ngrok), because geolocating is not allowed with the http protol, 
+but it is with https
 
 
 
 
 
 
-
+# ngrok
 
 if you want to get an ngrok plan for unlimited time, visit [ngrok](https://ngrok.com/), sign up there, and 
 activate your ngrok with the command 
