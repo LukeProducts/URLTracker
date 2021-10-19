@@ -36,8 +36,15 @@ if you want to get an ngrok plan for unlimited time, visit [ngrok](https://ngrok
 activate your ngrok with the command 
 ```sh
 ./ngrok authtoken YOURAUTHTOKEN
+
+ngrok RESPONSE:
+
+Authtoken saved to configuration file: /home/user/.ngrok2/ngrok.yml
 ```
 You will get the authtoken as soon as youre signed up under [setup](https://dashboard.ngrok.com/get-started/setup).
+After this, you'll see, that ngrok always opens with:
+
+
 
 
 # DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
