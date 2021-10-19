@@ -18,7 +18,7 @@ sudo ./tracker.sh
 There will be 2 windows popping up:
 
 
-Lifeview of logsfile_
+Lifeview of logsfile:
 ![empty_00142](https://user-images.githubusercontent.com/73026669/137955603-4d841a71-f4a5-45ea-9a46-3271fbaf428f.png)
 
 ngrok server status:
