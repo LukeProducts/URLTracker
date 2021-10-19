@@ -15,6 +15,10 @@ chmod +x tracker.sh
 sudo ./tracker.sh
 ```
 
+if you want to get an ngrok plan for unlimited time, visit <a href="https://ngrok.com/">Ngrok</a>
+
+
+
 # DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
 # NO LIABILITY FOR ILLEGAL USE IS ASSUMED!
 
