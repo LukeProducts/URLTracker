@@ -1,2 +1,5 @@
 # GeolocationEngineering
-Script to find out the exact location of a person by faking a maps website
+
+The Geolocation-Engeneering Toolkit is to obtain the exact location of a user using an fake maps page through ngrok fowarding.
+
+# Usage:
