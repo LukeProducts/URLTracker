@@ -4,13 +4,14 @@ The Geolocation-Engeneering Toolkit is to obtain the exact location of a user us
 
 # requirements:
 
-xterm, apache2, unzip
+xterm, apache2, unzip, php-curl
 
 installation:
 ```
 sudo apt install xterm
 sudo apt install apache2
 sudo apt install unzip
+sudo apt-get install php-curl
 ```
 # Usage:
 First unzip ngrok:
