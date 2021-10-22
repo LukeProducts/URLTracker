@@ -13,5 +13,4 @@ cp index.html "$directory/index.html" & cp handle.php "$directory/handle.php" & 
 chown -R www-data:www-data $directory
 chown -R www-data:www-data $logsfile
 echo "Waiting for connections..." > "$logsfile/logs.txt"
-xterm -e tail -f "$logsfile/logs.txt" &
-clear
+xterm -geometry 100x400-5-5 -e tail -f "$logsfile/logs.txt" & clear
