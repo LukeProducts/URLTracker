@@ -31,7 +31,7 @@ There will be 2 windows popping up:
 | ----- | ----- |
 |![empty_00142](https://user-images.githubusercontent.com/73026669/137955603-4d841a71-f4a5-45ea-9a46-3271fbaf428f.png)| ![ngrok_00071](https://user-images.githubusercontent.com/73026669/137955671-7cf5410a-aa93-4b66-bdcb-ad6fad1a5cd3.png)|
 |After someone opend the url, you'll se several information of the victim| 
-|![full1_00000](https://user-images.githubusercontent.com/73026669/137956688-9fd4b5ba-7d8f-4e0c-abf2-63024a0d8f4d.png)| 
+|![RES](https://user-images.githubusercontent.com/73026669/138503825-b92cab36-bf36-4881-a8c9-7b221ebf5ef7.jpg)| 
 
 The coords shown are summarized under "Google Maps", 
 you can see the geolocation on a map if you visit the printed url under this tag,
