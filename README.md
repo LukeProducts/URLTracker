@@ -31,7 +31,8 @@ There will be 2 windows popping up:
 | ----- | ----- |
 |![empty_00142](https://user-images.githubusercontent.com/73026669/137955603-4d841a71-f4a5-45ea-9a46-3271fbaf428f.png)| ![ngrok_00071](https://user-images.githubusercontent.com/73026669/137955671-7cf5410a-aa93-4b66-bdcb-ad6fad1a5cd3.png)|
 |After someone opend the url, you'll se several information of the victim| 
-|![RES](https://user-images.githubusercontent.com/73026669/138503825-b92cab36-bf36-4881-a8c9-7b221ebf5ef7.jpg)| 
+|![RES](https://user-images.githubusercontent.com/73026669/138503825-b92cab36-bf36-4881-a8c9-7b221ebf5ef7.jpg)
+(proxy example, not our address)| 
 
 The coords shown are summarized under "Google Maps", 
 you can see the geolocation on a map if you visit the printed url under this tag,
